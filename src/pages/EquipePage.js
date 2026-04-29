@@ -23,7 +23,7 @@ export default function EquipePage() {
         nome="Ryan D'Oliveira Lopes Figueredo"
         cargo="Desenvolvedor Full Stack"
         idade={23}
-        linkedin="ryanfig/"
+        linkedin="ryanfig"
         github="ryanfigueredo"
       />
       <Equipe
